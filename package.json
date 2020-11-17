@@ -1,0 +1,22 @@
+{
+  "name": "fastify-simple-error",
+  "version": "1.0.1",
+  "description": "A tool to call fastify-error in one line",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solohin/fastify-simple-error.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solohin/fastify-simple-error/issues"
+  },
+  "homepage": "https://github.com/solohin/fastify-simple-error#readme",
+  "dependencies": {
+    "fastify-error": "^0.2.0"
+  }
+}
